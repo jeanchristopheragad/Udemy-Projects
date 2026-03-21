@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+    font-size: 150px;
+}
+h1{
+  margin-top: 0;
+  font-family: "Libre Baskerville", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: white;
+  text-align: center;
+  margin-bottom: 0
+}
+#memediv{
+    margin-left: 25%;
+    width: 50%;
+    border: 5px solid white;
+    margin-bottom: 0;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+p{
+    margin-top: 0;
+    color: white;
+    font-size: .50rem;
+    text-align: center;
+}
+
+
